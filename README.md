@@ -95,6 +95,24 @@ The complete zero-to-production GenAI engineer track.
 
 ---
 
+## 🏗️ Projects Built in This Course
+
+Real applications built during the course — open source, forkable, and contribution-ready.
+
+| Project | Module | Description | Stack | Repo |
+|---|---|---|---|---|
+| **Distill** | M02 — Local LLMs | AI classroom assessment tool: paste a transcript → adaptive quiz + Dr. Priya interview debrief | FastAPI · React · LM Studio · Whisper | [→ github.com/nursnaaz/distill](https://github.com/nursnaaz/distill) |
+
+### ⭐ Contribute to Distill
+
+Distill is a live open-source project. Contributing to it is part of the course.
+
+**[→ Read the Contribution Guide](https://github.com/nursnaaz/distill/blob/main/CONTRIBUTING.md)**
+
+The guide walks you through forking, branching, opening a PR, and responding to review — the exact workflow used at every AI company. Mohamed reviews every PR personally.
+
+---
+
 ## 🎮 Interactive Tutorials
 
 Hands-on tutorials you can run in your browser — no setup, no install. Built specifically for this course.
